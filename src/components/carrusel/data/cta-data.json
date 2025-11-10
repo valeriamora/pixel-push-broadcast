@@ -1,0 +1,54 @@
+{
+  "ctaItems": [
+    {
+      "type": "text",
+      "content": "¡Bienvenidos al sistema de presentación!",
+      "duration": 5,
+      "theme": "default",
+      "animation": "fade"
+    },
+    {
+      "type": "link",
+      "content": "Visita nuestro sitio web para más información",
+      "duration": 6,
+      "theme": "blue",
+      "animation": "slide",
+      "highlightStyle": "pulse"
+    },
+    {
+      "type": "text",
+      "content": "Descubre nuevas funcionalidades cada día",
+      "duration": 5,
+      "theme": "pink",
+      "animation": "zoom"
+    },
+    {
+      "type": "link",
+      "content": "¡Suscríbete ahora y obtén beneficios exclusivos!",
+      "duration": 7,
+      "theme": "dark",
+      "animation": "bounce",
+      "highlightStyle": "glow"
+    },
+    {
+      "type": "text",
+      "content": "Tecnología de vanguardia en tiempo real",
+      "duration": 5,
+      "theme": "default",
+      "animation": "slide"
+    },
+    {
+      "type": "link",
+      "content": "Únete a nuestra comunidad global",
+      "duration": 6,
+      "theme": "pink",
+      "animation": "fade",
+      "highlightStyle": "wave"
+    }
+  ],
+  "globalSettings": {
+    "rotationInterval": 5,
+    "fontScale": 1,
+    "cornerPosition": "top-left"
+  }
+}
