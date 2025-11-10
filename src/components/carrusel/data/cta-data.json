@@ -2,47 +2,46 @@
   "ctaItems": [
     {
       "type": "text",
-      "content": "¡Bienvenidos al sistema de presentación!",
+      "content": "📚 Hoy se practica IA 🤖",
       "duration": 5,
       "theme": "default",
       "animation": "fade"
     },
     {
-      "type": "link",
-      "content": "Visita nuestro sitio web para más información",
+      "type": "text",
+      "content": "💡 Necesito ideas de ayuda social con IA",
       "duration": 6,
       "theme": "blue",
-      "animation": "slide",
+      "animation": "slide"
+    },
+    {
+      "type": "link",
+      "content": "🔗 linkedin.com/in/harryizquierdo 💼",
+      "duration": 7,
+      "theme": "dark",
+      "animation": "bounce",
       "highlightStyle": "pulse"
     },
     {
       "type": "text",
-      "content": "Descubre nuevas funcionalidades cada día",
+      "content": "⏱️ Debo lograr desarrollar un MVP en 2H 🚀",
       "duration": 5,
       "theme": "pink",
       "animation": "zoom"
     },
     {
-      "type": "link",
-      "content": "¡Suscríbete ahora y obtén beneficios exclusivos!",
-      "duration": 7,
-      "theme": "dark",
-      "animation": "bounce",
-      "highlightStyle": "glow"
-    },
-    {
       "type": "text",
-      "content": "Tecnología de vanguardia en tiempo real",
-      "duration": 5,
+      "content": "Comparte tus ideas y comentarios sobre IA",
+      "duration": 6,
       "theme": "default",
-      "animation": "slide"
+      "animation": "fade"
     },
     {
       "type": "link",
-      "content": "Únete a nuestra comunidad global",
-      "duration": 6,
-      "theme": "pink",
-      "animation": "fade",
+      "content": "¡Explora cómo la IA puede transformar el mundo!",
+      "duration": 7,
+      "theme": "blue",
+      "animation": "slide",
       "highlightStyle": "wave"
     }
   ],
