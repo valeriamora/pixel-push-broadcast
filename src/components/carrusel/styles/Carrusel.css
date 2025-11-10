@@ -25,7 +25,7 @@
 /* Position variants */
 .cta-overlay.top-left {
   top: 2rem;
-  left: 2rem;
+  /* left: 2rem; */
 }
 
 .cta-overlay.top-right {

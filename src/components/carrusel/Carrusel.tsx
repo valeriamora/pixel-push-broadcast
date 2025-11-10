@@ -140,7 +140,7 @@ export function Carrusel() {
           zIndex: 200,
         }}
       >
-        {currentIndex + 1} / {data.ctaItems.length} • {currentItem.type} • {theme}
+        {currentIndex + 1} / {data.ctaItems.length} {/* • {currentItem.type} • {theme} */}
       </div>
     </div>
   );
